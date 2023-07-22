@@ -6,14 +6,13 @@
 
 title: Humboldt Sketcher
 description: Sketch artist and software engineer in Humboldt County, California
-theme: minimal-mistakes-jekyll
 
 email: geminica@gmail.com
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 assets: /assets
-
 image: /img/header_aurora1.jpg
 
 defaults:
@@ -28,7 +27,6 @@ defaults:
       comments: true
       share: false
       related: false
-defaults:
   # _pages
   - scope:
       path: ""
