@@ -86,3 +86,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
