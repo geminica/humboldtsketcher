@@ -1,0 +1,86 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* system typefaces */
+$serif: $alfaslab, Georgia, Times, serif !default;
+$sans-serif: $lobster, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: "Fira Code", Monaco, Consolas, "Lucida Console", monospace !default;
+
+/* sans serif typefaces */
+$sans-serif-narrow: $sans-serif !default;
+$helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+
+/* serif typefaces */
+$satisfy: Satisfy, cursive;
+$georgia: Georgia, serif !default;
+$times: Times, serif !default;
+$bodoni: "Bodoni MT", serif !default;
+$calisto: "Calisto MT", serif !default;
+$garamond: Garamond, serif !default;
+$lobster: "Lobster", cursive;
+$alfaslab: "Alfa Slab One", cursive;
+$lilita: "Lilita One";
+$global-font-family: $serif !default;
+$header-font-family: $serif !default;
+$caption-font-family: $serif !default;
+
+html {
+    site-title: {
+      font-family: $lobster;
+    }
+    site-subtitle: {
+      font-family: $calisto;
+    }
+    page__title {
+      font-family: $lobster;
+    }
+    h1 {
+      font-family: $lobster;
+      font-weight: 100;
+    }
+    h2.archive__item-title {
+      font-family: "Lilita One";
+      font-weight: 100;
+    }
+    .greedy-nav a {
+      color: grey;
+//      font-size: small;
+  //# font-variant-caps:all-small-caps;      
+    }
+    .masthead__inner-wrap {
+      padding: 0 .5em;
+    }
+
+    .initial-content a {
+      font-family: $serif;
+      text-decoration: none;
+    }
+    .page__hero--overlay .wrapper {
+      align-content: center;
+      text-align: center;
+    }
+
+    .wrapper {
+      text-align: center;
+      align-content: center;
+    }
+    .page__hero--overlay .page__lead {
+      font-family: $serif;
+      font-size: small;
+      font-style: italic;
+      max-width: none;
+    }
+    .greedy-nav {
+      font-size: small;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    }
+  }

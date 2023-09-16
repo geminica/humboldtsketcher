@@ -5,20 +5,22 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Humboldt Sketcher
-description: Sketch artist and software engineer in Humboldt County, California
+subtitle: Sketch artist and software engineer in Humboldt County, California
 
 email: geminica@gmail.com
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: true
-
+search: false
+breadcrumbs: true
+breadcrumb_home_label : "Humboldt Sketcher"
+breadcrumb_separator : "->"
 assets: /assets
 image: /img/header_aurora1.jpg
 
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "journal"
       type: posts
     values:
       layout: single
@@ -27,12 +29,27 @@ defaults:
       comments: true
       share: false
       related: false
+      paginate: 5
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
+      read_time: false
+      comments: true
+      share: false
+      related: false
+  # _gallery
+  - scope:
+      path: "/gallery"
+      type: gallery
+    values:
+      layout: single
+      read_time: false
+      comments: true
+      share: false
+      related: false
 timezone: America/Los_Angeles
 author:
   name   : "Kalina Wilson"
@@ -57,3 +74,15 @@ author:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# Archives
+collections:
+  archives:
+    output: true
+    permalink: /archives/:path/
+    
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
