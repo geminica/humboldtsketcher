@@ -15,7 +15,7 @@ jobs:
       - name: Generate Jekyll Archives
         uses: kannansuresh/jekyll-blog-archive-workflow@master
         with:
-          archive_url: "https://humboldtsketcher.com/archives/archivedata"
+          archive_url: "https://geminica.github.io/humboldtsketcher/archives/archivedata"
           archive_folder_path: "_archives"
 
       - name: setup git config
