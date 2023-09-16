@@ -19,7 +19,7 @@ $sans-serif-narrow: $sans-serif !default;
 $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
 /* serif typefaces */
-$satisfy: Satisfy, cursive;
+$satisfy: "Satisfy", cursive;
 $georgia: Georgia, serif !default;
 $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
@@ -40,7 +40,11 @@ html {
       font-family: $calisto;
     }
     page__title {
-      font-family: $lobster;
+      font-family: $lilita;
+    }
+    archive__subtitle {
+      font-family: $lilita;
+      margin: .25 0;
     }
     h1 {
       font-family: $lobster;
@@ -53,7 +57,7 @@ html {
     }
     h2 {
       margin: .3em .3em 0 0 ;
-      float: left;
+      padding: 0;
     }
     .greedy-nav a {
       color: grey;
@@ -93,10 +97,10 @@ html {
       width: 100%;
     }
     .date {
-      font-size: x-small;
+      font-size: small;
       color: gray;
-      padding: 0 0 0 .5em;
-      text-align: left;
+      padding: 0;
+      margin: 0;
       font-style: italic;
     }
   }
