@@ -49,6 +49,11 @@ html {
     h2.archive__item-title {
       font-family: "Lilita One";
       font-weight: 100;
+      margin: 0;
+    }
+    h2 {
+      margin: .3em .3em 0 0 ;
+      float: left;
     }
     .greedy-nav a {
       color: grey;
@@ -82,5 +87,16 @@ html {
       font-size: small;
       font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
+    }
+    figure > img {
+      object-fit: contain;
+      width: 100%;
+    }
+    .date {
+      font-size: x-small;
+      color: gray;
+      padding: 0 0 0 .5em;
+      text-align: left;
+      font-style: italic;
     }
   }
