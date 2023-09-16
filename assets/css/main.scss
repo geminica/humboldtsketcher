@@ -19,7 +19,7 @@ $sans-serif-narrow: $sans-serif !default;
 $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
 /* serif typefaces */
-$satisfy: Satisfy, cursive;
+$satisfy: "Satisfy", cursive;
 $georgia: Georgia, serif !default;
 $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
@@ -40,7 +40,7 @@ html {
       font-family: $calisto;
     }
     page__title {
-      font-family: $lobster;
+      font-family: $lilita;
     }
     h1 {
       font-family: $lobster;
