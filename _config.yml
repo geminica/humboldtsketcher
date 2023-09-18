@@ -6,12 +6,11 @@
 
 title: Humboldt Sketcher
 subtitle: Sketch artist and software engineer in Humboldt County, California
-
 email: geminica@gmail.com
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
-breadcrumbs: true
+breadcrumbs: false
 breadcrumb_home_label : "Humboldt Sketcher"
 breadcrumb_separator : "->"
 assets: /assets
@@ -24,36 +23,40 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
-      comments: true
+      comments: false
       share: false
       related: false
       paginate: 5
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
+      author_profile: false
       layout: single
       read_time: false
-      comments: true
+      comments: false
       share: false
       related: false
-  # _gallery
+  # sketches
   - scope:
-      path: "/gallery"
+      path: "/sketches"
       type: gallery
     values:
+      author_profile: false
       layout: single
       read_time: false
-      comments: true
+      comments: false
       share: false
       related: false
 timezone: America/Los_Angeles
 author:
   name   : "Kalina Wilson"
 
+include:
+ - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -75,11 +78,6 @@ author:
 #   - vendor/gems/
 #   - vendor/ruby/
 # Archives
-collections:
-  archives:
-    output: true
-    permalink: /archives/:path/
-    
 category_archive:
   type: liquid
   path: /categories/
