@@ -14,7 +14,6 @@ breadcrumbs: false
 breadcrumb_home_label : "Humboldt Sketcher"
 breadcrumb_separator : "->"
 assets: /assets
-image: /img/header_aurora1.jpg
 
 defaults:
   # _posts
@@ -52,8 +51,17 @@ defaults:
       share: false
       related: false
 timezone: America/Los_Angeles
+# Site Author
 author:
-  name   : "Kalina Wilson"
+  name             : "Kalina Geminica Wilson"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Sketcher, software developer, sci fi fan, traveler"
+  location         : "Eureka, California"
+  email            : geminica @ gmail . com
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/kgeminica"
 
 include:
  - _pages
@@ -85,6 +93,12 @@ tag_archive:
   type: liquid
   path: /tags/
 
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/kgeminica"
+      
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
