@@ -4,14 +4,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Humboldt Sketcher
+title: Geminica
 subtitle: Sketch artist and software engineer in Humboldt County, California
 email: geminica@gmail.com
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
 breadcrumbs: false
-breadcrumb_home_label : "Humboldt Sketcher"
+breadcrumb_home_label : "geminica"
 breadcrumb_separator : "->"
 assets: /assets
 
