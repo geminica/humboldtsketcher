@@ -52,7 +52,7 @@ html {
     font-size: larger;
   }
   .archive__subtitle {
-    font-family: $lilita;
+    font-family: $serif;
     font-weight: 100;
     margin: .25 0;
   }
@@ -63,27 +63,27 @@ html {
     margin: 0;
     font-style: italic;
   }
-  html .page__hero--overlay .page__lead {
-    font-family: $satisfy;
-  }
+  // html .page__hero--overlay .page__lead {
+  //   font-family: $satisfy;
+  // }
   .page__title {
     font-family: $lobster;
   }
 
   .site-title {
-    font-family: $lilita;
+    font-family: $serif;
     font-weight: 200;
     font-variant: small-caps;
   }
   h2.archive__item-title {
-    font-family: $lilita;
+    font-family: $serif;
     font-weight: 100;
     font-size: medium;
     margin: 0;
   }
   .greedy-nav a {
     color: grey;
-    font-family: $lilita;
+    font-family: $serif;
     font-variant: small-caps;
     font-weight: 200;
 //      font-size: small;
@@ -100,7 +100,6 @@ html {
   .page__hero--overlay .page__lead {
     font-family: $serif;
     font-size: small;
-    font-style: italic;
     max-width: none;
   }
   .page__hero--overlay .wrapper {
@@ -108,7 +107,7 @@ html {
     text-align: center;
   }
   .site-subtitle {
-    font-family: $calisto;
+    font-family: $serif;
   }
   .wrapper {
     text-align: center;
