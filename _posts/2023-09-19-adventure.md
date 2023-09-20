@@ -1,6 +1,6 @@
 ---
 title: we're going on an adventure
-date: 2023-09-17
+date: 2023-09-19
 layout: single
 category: adventure
 author: kalina
