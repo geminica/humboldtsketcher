@@ -13,6 +13,8 @@ I'm an enthusiast. Here are some things I am enthusiastic about:
 * science fiction
 * tall ships
 * archery
+* sketching
+* Urban Sketchers
 * animal rescue groups and everyone that helps them
 * the ocean
 * Scotland
@@ -23,6 +25,7 @@ I'm an enthusiast. Here are some things I am enthusiastic about:
 * languages
 * Russian language in particular
 * also modern Greek
+* pens
 * Pentel Pocket Brush Pens
 * Tombow Dual-Tip Brush Markers
 * Tombow Fudenosuke soft-tip pens
@@ -43,6 +46,5 @@ I'm an enthusiast. Here are some things I am enthusiastic about:
 * Mr. Blue Sky by Electric Light Orchestra
 * Quinacridone Gold watercolor from Daniel Smith
 * Carl Sagan
-*
 
 I can be found by searching for "Kalina" or "Geminica" on most forms of social media.
