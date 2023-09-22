@@ -9,7 +9,9 @@ header:
     teaser: /assets/img/photos/20230921_the-scottish-islands.jpg
 ---
 
-![image-right](/assets/img/photos/20230921_the-scottish-islands.jpg) <small>The Scottish Islands, by Hamish Haswell-Smith</small>
+<figure>
+    <img src = "/assets/img/photos/20230921_the-scottish-islands.jpg" /><figcaption>The Scottish Islands, by Hamish Haswell-Smith</figcaption>
+</figure>
 
 I've made plans to get out on the water again in July 2024, but what to do with my enthusiasm/nervous energy in the meantime?
 
