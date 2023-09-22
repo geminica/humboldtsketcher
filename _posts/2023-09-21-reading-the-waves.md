@@ -15,7 +15,7 @@ I've made plans to get out on the water again in July 2024, but what to do with 
 Nautical fiction and non-fiction aren't substitutes for time at sea but reading about sailing instills good instincts and helps me remember terminology. Right? Well whatever, it's fun, and it's the most I can do right now as I pave the way from passion to action.
 
 <figure class="width-half" >
-    <img src = "/assets/img/photos/20230921_isaac-the-pirate.jpg" /><figcaption>from _Isaac the Pirate_ by Christophe Blain</figcaption>
+    <img src = "/assets/img/photos/20230921_isaac-the-pirate.jpg" /><figcaption>Christophe Blain, *Isaac the Pirate*</figcaption>
 </figure>
 
 
