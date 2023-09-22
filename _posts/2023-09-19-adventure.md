@@ -5,7 +5,8 @@ layout: single
 category: adventure
 author: kalina
 tags: sail travel tall ship phoenix blue clipper
-teaser: https://static.cnews.fr/sites/default/files/styles/image_750_422/public/000_Par2067402.jpg
+header:
+  teaser: https://static.cnews.fr/sites/default/files/styles/image_750_422/public/000_Par2067402.jpg
 ---
 Well, I've made my travel plan for 2024, and it's a zinger.
 

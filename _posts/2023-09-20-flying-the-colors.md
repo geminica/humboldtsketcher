@@ -5,7 +5,8 @@ layout: single
 category: art
 author: kalina
 tags: sail tall ship sketching inspiration
-teaser: /assets/img/photos/van_gogh-boats_on_the_sea.jpg
+header:
+    teaser: /assets/img/photos/van_gogh-boats_on_the_sea.jpg
 ---
 
 Now that I know next year's adventure vacation will place me among thousands of beautiful boats, I'm starting to consider what interim practice will set me up to capture that scene in my sketchbook. It's a common enough challenge for a sketcher, in general:
