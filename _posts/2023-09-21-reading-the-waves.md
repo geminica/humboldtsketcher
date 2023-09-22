@@ -9,11 +9,8 @@ header:
     teaser: /assets/img/photos/20230921_the-scottish-islands.jpg
 ---
 
-<figure>
-    <img src = "/assets/img/photos/20230921_the-scottish-islands.jpg" /><figcaption>The Scottish Islands, by Hamish Haswell-Smith</figcaption>
-</figure>
-
 I've made plans to get out on the water again in July 2024, but what to do with my enthusiasm/nervous energy in the meantime?
+
 
 Nautical fiction and non-fiction aren't substitutes for time at sea but reading about sailing instills good instincts and helps me remember terminology. Right? Well whatever, it's fun, and it's the most I can do right now as I pave the way from passion to action.
 
@@ -27,6 +24,10 @@ Here's my current library of sailing-related reading:
 ## Non-Fiction
 * [The Scottish Islands](https://www.goodreads.com/book/show/4285434-the-scottish-islands), Hamish Haswell-Smith  
 This was the bible on the Blue Clipper as it sailed me around the Hebrides last year, and it is a delight.  Not just for data about depths and docks and treacherous rocks, it provides full local history of each area paired with very lovely sketches and watercolor illustrations by the author himself.  Descriptions of locations include who owns the land, where boats can anchor, and warnings about wind and hazards. While it doesn't teach how to sail, it might teach a sailor's perspective.
+
+<figure>
+    <img src = "/assets/img/photos/20230921_the-scottish-islands.jpg" /><figcaption>The Scottish Islands, by Hamish Haswell-Smith</figcaption>
+</figure>
 
 * [_Last Time Around Cape Horn_](https://www.goodreads.com/book/show/1160573.The_Last_Time_Around_Cape_Horn), William Stark (with his son, Peter Stark)
 This relates the story of a crewman aboard *The Pamir* during the last Grain Race voyage in 1949.  This was perhaps the first non-fiction sailing adventure story I read and it carried me away (so to speak). Particularly impactful was that the story took place both in what I thought of as past times (global trade by sail in harrowing passages that resulted in loss of life) and modern times (my own mother was born the very year this voyage took place). The engaging adventure and the new realization that tall ships were not as deep in the past as I thought contributed to my burgeoning intent to have tall ship experience of my own.
