@@ -68,8 +68,9 @@ html {
   // }
 
   .page {
-    width: calc(100% - 200px);
-    padding-right: 100px;  }
+    width: 100%;
+    padding-right: 100px;  
+  }
   .page__title {
     font-family: $lobster;
   }
@@ -148,10 +149,31 @@ html {
   }
   .layout--single {
     width: calc(100% - 300px);
-
   }
   .width-half {
     width: 50%;
     margin: auto;
+  }
+  @media screen and (max-width: 420px) {
+    .page {
+      padding-right: 0;  
+    }
+
+    .archive__item {
+      display: block;
+      flex-wrap: nowrap;
+      padding:1em;
+    }
+    .archive__item > div {
+      width: 100%;
+      margin: 10px;
+      align-items: center;
+    }
+    .layout--single {
+      width: 100%;
+    }
+    .width-half {
+      width: 100%;
+    }
   }
 }

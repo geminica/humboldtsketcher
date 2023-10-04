@@ -27,7 +27,9 @@ I've sung "I'm in a New York state of mind" while hoofing it on the streets of M
 
 ![Dragonfly resting on my sketch at Loch Shiel, Scotland, in 2013](/assets/img/photos/6200984422_a0457ca63f_o.jpg) <i><small>Dragonfly resting on my sketchbook at Loch Shiel</small></i>
 
-Both sketching and singing are offerings that can bind me to a place. For most of us, when we take photos, there's a fair chance we're not deeply investing in the moment. Our focus, as it were, is not deep or intense, but scattered and faulty. Taking a photo doesn't give me a sense that the place belongs to me. Sketching does. I let the place in through my senses, and I gift it with my whole attention and all my love for beauty, and when I walk way it's part of me.
+Both sketching and singing are offerings that can bind me to a place. For most of us, when we take photos, there's a fair chance we're not deeply investing in the moment. Our focus, as it were, is not deep or intense, but scattered and faulty. Taking a photo doesn't give me a sense that the place belongs to me. Sketching does. 
+
+I let the place in through my senses, gift it with my whole attention and all my love for beauty, and when I walk away it comes with me.
 
 When I sing a song while in the place that inspired it, I feel that whoever wrote that song is right there with me, separated only by time, which hardly matters. And all the others who have loved this place and sung this song are related to me not by bloodlines but through something weirder and deeper - like we're the blood kin of those hills and that loch, and the blood is made of song and story and ink.
 
