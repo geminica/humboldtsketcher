@@ -14,9 +14,9 @@ There's sketching, as you know.
 
 But also, I sing.
 
-It generally isn't planned. I'm not great at it, and I do it only for myself. But it's fun to learn songs, and natural to seek out songs about places that hold personal interest. When I finally make it to a place I've long yearned to see, there's a song on my lips to gift to it.
+It generally isn't planned. I'm not great at it and do it only for my own ears. But it's fun to learn songs, and natural to seek out songs about places that hold personal interest. When arriving at a place that has been calling to me for many years, there usually turns out to be a song on my lips to gift to it.
 
-![Glenfinnan Monument and Loch Shiel](/assets/img/photos/6200929028_c18f85c46b_c.jpg)
+![Glenfinnan Monument and Loch Shiel](/assets/img/photos/6200929028_c18f85c46b_c.jpg) <i><small>Glenfinnan Monument for Bonnie Prince Charlie at Glenfinnan/Loch Shiel, 2011</small></i>
 
 I've sung "I'm in a New York state of mind" while hoofing it on the streets of Manhattan. I've fumbled through "Rocky Road to Dublin" on a tin whistle from the banks of the Liffey. And I've sung odes to Prince Charlie Stuart from the marshy trails around Loch Shiel, where he gathered the clans for the ill-fated trek to Culloden.
 
@@ -27,15 +27,15 @@ I've sung "I'm in a New York state of mind" while hoofing it on the streets of M
 
 ![Dragonfly resting on my sketch at Loch Shiel, Scotland, in 2013](/assets/img/photos/6200984422_a0457ca63f_o.jpg) <i><small>Dragonfly resting on my sketchbook at Loch Shiel</small></i>
 
-Both sketching and singing are offerings that can bind me to a place. For most of us, when we take photos, there's a fair chance we're not deeply investing in the moment. Our focus, as it were, is not deep or intense, but scattered and faulty. Taking a photo doesn't give me a sense that the place belongs to me. Sketching does. 
+Both sketching and singing are offerings that can bind a person to a place. For most of us (with possible exception of dedicated photographers), when we take photos, there's a fair chance we're not deeply investing in the moment. Our attention is not deep or intense, but scattered and faulty. Taking a photo doesn't give me a sense that the place belongs to me. Sketching does.
 
 I let the place in through my senses, gift it with my whole attention and all my love for beauty, and when I walk away it comes with me.
 
-When I sing a song while in the place that inspired it, I feel that whoever wrote that song is right there with me, separated only by time, which hardly matters. And all the others who have loved this place and sung this song are related to me not by bloodlines but through something weirder and deeper - like we're the blood kin of those hills and that loch, and the blood is made of song and story and ink.
+When singing a song within the place that inspired it, it feels like whoever wrote that song is right there with you, separated only by time, which hardly matters. And all the other people who have loved this place and sung this song are related to me not by bloodlines but through something weirder and deeper - we're the blood kin of those hills and that loch, and the blood is made of song and story and attention.
 
 We have the power to eschew the crowds, put away the phone, wander along an abandoned trail, and bond ourselves to a place in a way that will stick with us forever. And all it takes is paper, pen, and a song.
 
-![Glenfinnan Monument](/assets/img/art/6200928682_06fd762c65_o.jpg)
+![Glenfinnan Monument](/assets/img/art/6200928682_06fd762c65_o.jpg) <i><small>Sketch of the monument to Bonnie Prince Charlie, at Glenfinnan/Loch Shiel, 2011</small></i>
 
 ---
 
