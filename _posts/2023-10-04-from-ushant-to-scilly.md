@@ -25,7 +25,7 @@ I've sung "I'm in a New York state of mind" while hoofing it on the streets of M
 > With his fine tartan hose and his bonnie round leg  
 > And his buckles all a pure shining gold  
 
-![Dragonfly resting on my sketch at Loch Shiel, Scotland, in 2013](/assets/img/photos/6200984422_a0457ca63f_o.jpg) <i><small>Dragonfly resting on my sketchbook at Loch Shiel</small></i>
+![Dragonfly resting on my sketch at Loch Shiel, Scotland, in 2013](/assets/img/photos/6200984422_a0457ca63f_o.jpg)  <i><small>Dragonfly resting on my sketchbook at Loch Shiel</small></i>
 
 Both sketching and singing are offerings that can bind a person to a place. For most of us (with possible exception of dedicated photographers), when we take photos, there's a fair chance we're not deeply investing in the moment. Our attention is not deep or intense, but scattered and faulty. Taking a photo doesn't give me a sense that the place belongs to me. Sketching does.
 
