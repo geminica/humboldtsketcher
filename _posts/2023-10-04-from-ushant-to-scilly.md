@@ -37,6 +37,8 @@ We have the power to eschew the crowds, put away the phone, wander along an aban
 
 ---
 
+On that "note"...
+
 I'm starting to learn the 18th century naval song _Spanish Ladies_, as the perfect accompaniment for crossing the English Channel by tall ship next summer. I'm sure to see Ushant, and perhaps Scilly as well!
 
 >Farewell and adieu, to you Spanish ladies  
